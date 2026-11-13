@@ -6,12 +6,6 @@ public class Nodo <T>{
     private Nodo <T> sig;
     private Nodo <T> ant;
 
-    public Nodo(Carta carta){
-        this.carta=carta;
-        this.sig=this;
-        this.ant=this;
-    }
-
     public Nodo(T info){
         this.info=info;
         this.sig=null;
@@ -39,4 +33,6 @@ public class Nodo <T>{
     public void setAnt(Nodo<T> ant){
         this.ant=ant;
     }
+
+
 }

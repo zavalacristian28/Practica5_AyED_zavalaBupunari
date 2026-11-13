@@ -10,6 +10,9 @@ public class Archivo {
     public Archivo(){
         LDC=new ListaDobleCircular<>();
     }
+    public ListaDobleCircular<Carta> getLDC(){
+        return LDC;
+    }
     public void cargarArchivo(){
         try(BufferedReader bf=new BufferedReader(new FileReader(rutaArchivo))){
             String linea;
@@ -22,7 +25,7 @@ public class Archivo {
 
                 String datosArchivo[]=linea.split(",", -1);
 
-                if(datosArchivo.length != 6){
+                if(datosArchivo.length != 7){
                     System.out.println("Error en la línea: " + linea);
                     continue;
                 }
@@ -33,7 +36,8 @@ public class Archivo {
                         Integer.parseInt(datosArchivo[2].trim()),
                         datosArchivo[3].trim(),
                         Integer.parseInt(datosArchivo[4].trim()),
-                        datosArchivo[5].trim()
+                        datosArchivo[5].trim(),
+                        Integer.parseInt(datosArchivo[6].trim())
                 );
 
                 LDC.insertaInicio(carta);
@@ -47,7 +51,7 @@ public class Archivo {
 
     public void mostrar(){
         if(LDC.getInicio() == null){
-            System.out.println("La lista está vacía");
+            System.out.println("La lista está vacia");
             return;
         }
 

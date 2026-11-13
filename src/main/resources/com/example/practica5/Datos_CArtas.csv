@@ -1,83 +1,83 @@
-Nombre,PuntosAtaque,PuntosDefensa,Atributo,Nivel,Tipo
-Exodia El prohibido,1000,1000,Oscuridad,3,Lanzador de conjuros
-Brazo derecho del prohibido,200,300,Oscuridad,1,Lanzador de conjuros
-Brazo izquierdo del prohibido,200,300,Oscuridad,1,Lanzador de conjuros
-Pierna Derecha del prohibido,200,300,Oscuridad,1,Lanzador de conjuros
-Pierna izquierda del prohibido,200,300,Oscuridad,1,Lanzador de conjuros
-X-cabza cañon,1800,1500,Luz,4,Maquina
-Dragon negro de ojos rojos,2400,2000,Oscuridad,7,Dragon
-Mago oscuro,2500,2100,Oscuridad,7,Lanzador de conjuros
-Dragon blanco de ojos azules,3000,2500,Luz,8,Dragon
-Duende mistico,800,2000,Luz,4,Lanzador de conjuros
-Craneo convocado,2500,1200,Oscuridad,6,Demonio
-Guardia Flamvell,100,2000,Fuego,1,Dragon
-Sacerdotista de azules ojos,0,0,Luz,1,Lanzador de conjuros
-Maestro de ojos azules,300,1200,Luz,1,Lanzador de conjuros
-Exodious el señor prohibido definitivo,-1,0,Oscuridad,10,Lanzador de conjuros
-Exodia Necross,1800,0,Oscuridad,4,Lanzador de conjuros
-El legendario exodia encarnado,-1,0,Oscuridad,10,Lanzador de conjuros
-Dragon arcavaliente,2400,2000,Luz,7,Dragon
-Tunica del mago,700,2000,Oscuridad,2,Lanzador de conjuros
-Mahad el oráculo paladio,2500,2100,Luz,7,Lanzador de conjuros
-Z-metal tanque,1500,1300,Luz,4,Maquina
-Y-dragon cabeza,1500,1600,Luz,4,Maquina
-W-ala catapulta,1300,1500,Luz,4,Maquina
-Plataforma de apoyo de mechs pesados,500,500,Oscuridad,3,Maquina
-Ogro fantasma y conejo de las nieves,0,1800,Luz,3,Psiquico
-Monje invocador,800,1600,Oscuridad,4,Lanzador de conjuros
-Dragon pulsardeluz,2500,1500,Luz,6,Dragon
-Dragon negro resplandeciente de ojos rojos,2400,2000,Oscuridad,7,Dragon
-Dragon metálico de oscuridad de ojos rojos,2800,2400,Oscuridad,10,Dragon
-Dragon bebe de ojos rojos,1200,700,Oscuridad,3,Dragon
-Doncella de azules ojos,0,0,Luz,1,Lanzador de conjuros
-Paladin oscuro,2900,2400,Oscuridad,8,Lanzador de conjuros
-Mago oscuro el jinete del dragon,3000,2500,Oscuridad,8,Dragon
-Chica maga oscura la jinete del dragon,2600,1700,Oscuridad,7,Dragon
-YZ-Tanque dragon,2100,2200,Luz,6,Maquina
-XZ-Tanque cañon,2400,2100,Luz,6,Maquina
-XYZ-Dragon cañon,2800,2600,Luz,8,Maquina
-XY-dragon cañon,2200,1900,Luz,6,Maquina
-VWXYZ-Dragon catapulta cañon,3000,2800,Luz,8,Maquina
-VW-Tigre catapulta,2000,2100,Luz,6,Maquina
-Neo dragon de ojos azules definitivo,4500,3800,Luz,12,Dragon
-ABC-Dragon beligerante,3000,2800,Luz,8,Maquina
-A-A la-Z-Cañon beligerante dragon,4000,4000,Luz,10,Maquina
-Dragon amuleto,2900,2500,Oscuridad,8,Dragon
-Dragon explosivo de ojos azules de dos cabezas,3000,2500,Luz,10,Dragon
-Dragon de ojos azules definitivo,4500,3800,Luz,12,Dragon
-Dragon de caos máximo de ojos azules,4000,0,Oscuridad,8,Dragon
-Dragon sincro ala cristalina,3000,2500,Viento,8,Dragon
-Dragon plateado de ojos cerúleos,2500,3000,Luz,9,Dragon
-Dragon espiritual de ojos azules,2500,3000,Luz,9,Dragon
-Zenmaines de cuerda,1500,2100,Fuego,3,Maquina
-Alto mago Ebon,2300,2800,Oscuridad,7,Lanzador de conjuros
-Mecha bestia fantasma Dracossack,2600,2200,Viento,7,Maquina
-Dragon fotónico de ojos galácticos de primera,4000,3000,Luz,8,Dragon
-Engranaje X gigante,2300,1500,Tierra,4,Maquina
-Tomahawk de la galaxia,0,3000,Viento,7,Maquina
-Ojo grande,2600,2000,Oscuridad,7,Lanzador de conjuros
-Norito el líder moral,2700,2000,Luz,6,Lanzador de conjuros
-Mago de la ilusión Ebon,2500,2100,Oscuridad,7,Lanzador de conjuros
-Los caballeros fantasma de la espada quebrada,2000,1000,Oscuridad,3,Guerrero
-El hierofante de la profecia,2800,2600,Oscuridad,7,Lanzador de conjuros
-Dragon de metal replandeciente de ojos rojos,2800,240,Oscuridad,7,Dragon
-Dragon de materia oscura de ojos galácticos,4000,0,Oscuridad,9,Dragon
-Heraldo de la esperanza,3000,2500,Luz,8,Dragon
-Neo dragon cifrado de ojos galácticos,4500,3000,Luz,9,Dragon
-Dragon fotónico de armadura completa de ojos galácticos,4000,3500,Luz,8,Dragon
-Dragon de la hoja cifrado de ojos galácticos,3200,2800,Luz,9,Dragon
-Amorfago Goliat,2750,0,Tierra,8,Dragon
-El dragon alado de Ra,-1,-1,Divinidad,10,Bestia Divina
-Obelisco el atormentador,4000,4000,Divinidad,10,Bestia divina
-HieloJade Kosmochlor,1500,3000,Agua,10,Agua
-HieloJade Aegirine,1000,2000,Agua,3,Agua
-HieloJade creacion martin pescador,2500,2500,Agua,9,Agua
-Magichica de libromancia,600,2100,Agua,4,Lanzador de conjuros
-Therion "Emperatriz" Alasia,2100,2500,Tierra,8,Reptil
-Uali Melffy,0,400,Tierra,2,Bestia
-Eka la compañia de la llama,1500,200,Fuego,4,Guerrero
-Ignis Fenix el Dracoasesino,1700,1900,Fuego,4,Guerrero
-Kashtipa unicornio,2500,2100,Viento,7,Psiquico
-Nightmell el vinculador oscuro,1500,1500,Viento,4,Psiquico
+Nombre,PuntosAtaque,PuntosDefensa,Atributo,Nivel,Tipo,Id
+Exodia El prohibido,1000,1000,Oscuridad,3,Lanzador de conjuros,1
+Brazo derecho del prohibido,200,300,Oscuridad,1,Lanzador de conjuros,2
+Brazo izquierdo del prohibido,200,300,Oscuridad,1,Lanzador de conjuros,3
+Pierna Derecha del prohibido,200,300,Oscuridad,1,Lanzador de conjuros,4
+Pierna izquierda del prohibido,200,300,Oscuridad,1,Lanzador de conjuros,5
+X-cabza cañon,1800,1500,Luz,4,Maquina,6
+Dragon negro de ojos rojos,2400,2000,Oscuridad,7,Dragon,7
+Mago oscuro,2500,2100,Oscuridad,7,Lanzador de conjuros,8
+Dragon blanco de ojos azules,3000,2500,Luz,8,Dragon,9
+Duende mistico,800,2000,Luz,4,Lanzador de conjuros,10
+Craneo convocado,2500,1200,Oscuridad,6,Demonio,11
+Guardia Flamvell,100,2000,Fuego,1,Dragon,12
+Sacerdotista de azules ojos,0,0,Luz,1,Lanzador de conjuros,13
+Maestro de ojos azules,300,1200,Luz,1,Lanzador de conjuros,14
+Exodious el señor prohibido definitivo,-1,0,Oscuridad,10,Lanzador de conjuros,15
+Exodia Necross,1800,0,Oscuridad,4,Lanzador de conjuros,16
+El legendario exodia encarnado,-1,0,Oscuridad,10,Lanzador de conjuros,17
+Dragon arcavaliente,2400,2000,Luz,7,Dragon,18
+Tunica del mago,700,2000,Oscuridad,2,Lanzador de conjuros,19
+Mahad el oráculo paladio,2500,2100,Luz,7,Lanzador de conjuros,20
+Z-metal tanque,1500,1300,Luz,4,Maquina,21
+Y-dragon cabeza,1500,1600,Luz,4,Maquina,22
+W-ala catapulta,1300,1500,Luz,4,Maquina,23
+Plataforma de apoyo de mechs pesados,500,500,Oscuridad,3,Maquina,24
+Ogro fantasma y conejo de las nieves,0,1800,Luz,3,Psiquico,25
+Monje invocador,800,1600,Oscuridad,4,Lanzador de conjuros,26
+Dragon pulsardeluz,2500,1500,Luz,6,Dragon,27
+Dragon negro resplandeciente de ojos rojos,2400,2000,Oscuridad,7,Dragon,28
+Dragon metálico de oscuridad de ojos rojos,2800,2400,Oscuridad,10,Dragon,29
+Dragon bebe de ojos rojos,1200,700,Oscuridad,3,Dragon,30
+Doncella de azules ojos,0,0,Luz,1,Lanzador de conjuros,31
+Paladin oscuro,2900,2400,Oscuridad,8,Lanzador de conjuros,32
+Mago oscuro el jinete del dragon,3000,2500,Oscuridad,8,Dragon,33
+Chica maga oscura la jinete del dragon,2600,1700,Oscuridad,7,Dragon,34
+YZ-Tanque dragon,2100,2200,Luz,6,Maquina,35
+XZ-Tanque cañon,2400,2100,Luz,6,Maquina,36
+XYZ-Dragon cañon,2800,2600,Luz,8,Maquina,37
+XY-dragon cañon,2200,1900,Luz,6,Maquina,38
+VWXYZ-Dragon catapulta cañon,3000,2800,Luz,8,Maquina,39
+VW-Tigre catapulta,2000,2100,Luz,6,Maquina,40
+Neo dragon de ojos azules definitivo,4500,3800,Luz,12,Dragon,41
+ABC-Dragon beligerante,3000,2800,Luz,8,Maquina,42
+A-A la-Z-Cañon beligerante dragon,4000,4000,Luz,10,Maquina,43
+Dragon amuleto,2900,2500,Oscuridad,8,Dragon,44
+Dragon explosivo de ojos azules de dos cabezas,3000,2500,Luz,10,Dragon,45
+Dragon de ojos azules definitivo,4500,3800,Luz,12,Dragon,46
+Dragon de caos máximo de ojos azules,4000,0,Oscuridad,8,Dragon,47
+Dragon sincro ala cristalina,3000,2500,Viento,8,Dragon,48
+Dragon plateado de ojos cerúleos,2500,3000,Luz,9,Dragon,49
+Dragon espiritual de ojos azules,2500,3000,Luz,9,Dragon,50
+Zenmaines de cuerda,1500,2100,Fuego,3,Maquina,51
+Alto mago Ebon,2300,2800,Oscuridad,7,Lanzador de conjuros,52
+Mecha bestia fantasma Dracossack,2600,2200,Viento,7,Maquina,53
+Dragon fotónico de ojos galácticos de primera,4000,3000,Luz,8,Dragon,54
+Engranaje X gigante,2300,1500,Tierra,4,Maquina,55
+Tomahawk de la galaxia,0,3000,Viento,7,Maquina,56
+Ojo grande,2600,2000,Oscuridad,7,Lanzador de conjuros,57
+Norito el líder moral,2700,2000,Luz,6,Lanzador de conjuros,58
+Mago de la ilusión Ebon,2500,2100,Oscuridad,7,Lanzador de conjuros,59
+Los caballeros fantasma de la espada quebrada,2000,1000,Oscuridad,3,Guerrero,60
+El hierofante de la profecia,2800,2600,Oscuridad,7,Lanzador de conjuros,61
+Dragon de metal replandeciente de ojos rojos,2800,240,Oscuridad,7,Dragon,62
+Dragon de materia oscura de ojos galácticos,4000,0,Oscuridad,9,Dragon,63
+Heraldo de la esperanza,3000,2500,Luz,8,Dragon,64
+Neo dragon cifrado de ojos galácticos,4500,3000,Luz,9,Dragon,65
+Dragon fotónico de armadura completa de ojos galácticos,4000,3500,Luz,8,Dragon,66
+Dragon de la hoja cifrado de ojos galácticos,3200,2800,Luz,9,Dragon,67
+Amorfago Goliat,2750,0,Tierra,8,Dragon,68
+El dragon alado de Ra,-1,-1,Divinidad,10,Bestia Divina,69
+Obelisco el atormentador,4000,4000,Divinidad,10,Bestia divina,70
+HieloJade Kosmochlor,1500,3000,Agua,10,Agua,71
+HieloJade Aegirine,1000,2000,Agua,3,Agua,72
+HieloJade creacion martin pescador,2500,2500,Agua,9,Agua,73
+Magichica de libromancia,600,2100,Agua,4,Lanzador de conjuros,74
+Therion "Emperatriz" Alasia,2100,2500,Tierra,8,Reptil,75
+Uali Melffy,0,400,Tierra,2,Bestia,76
+Eka la compañia de la llama,1500,200,Fuego,4,Guerrero,77
+Ignis Fenix el Dracoasesino,1700,1900,Fuego,4,Guerrero,78
+Kashtipa unicornio,2500,2100,Viento,7,Psiquico,79
+Nightmell el vinculador oscuro,1500,1500,Viento,4,Psiquico,80
 
 
